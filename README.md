@@ -37,9 +37,9 @@ Fresh **S.Kom graduate** in Computer Science with a strong foundation in **Machi
 - Indonesian NLP Preprocessing
 
 **Databases & Tools**
-- MySQL | PostgreSQL
+- MySQL 
 - Git & GitHub | VS Code | Google Colab
-- XAMPP | Docker
+- XAMPP 
 
 ---
 
