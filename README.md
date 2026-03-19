@@ -84,7 +84,7 @@ Java/JSP-based enterprise application with:
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn**: [Your LinkedIn URL]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ravhihz/
 - 📧 **Email**: ravhi.satria@gmail.com
 - 🌐 **Portfolio**: https://ravhihz.github.io/Rav-porto
 
