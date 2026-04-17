@@ -1,99 +1,73 @@
-# Hi there, I'm Vhi! 👋
-
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Ravhihz?style=social)](https://github.com/Ravhihz)
-[![GitHub stars](https://img.shields.io/github/stars/Ravhihz?style=social)](https://github.com/Ravhihz)
 
-**ML Engineer | Python & Django Developer | NLP Enthusiast**
+# Hey, I'm Vhi 👋
 
-📍 South Tangerang, Banten, Indonesia
+**Full-Stack Developer · ML Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravhihz-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravhihz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ravhihz.github.io-black?style=flat&logo=github)](https://ravhihz.github.io/Rav-porto)
+[![Email](https://img.shields.io/badge/Email-ravhi.satria@gmail.com-D14836?style=flat&logo=gmail)](mailto:ravhi.satria@gmail.com)
 
 </div>
 
 ---
 
-## 🎓 About Me
+I build full-stack web applications and intelligent systems — from complaint platforms with real-time notifications to NLP-powered sentiment analysis engines.
 
-Fresh **S.Kom graduate** in Computer Science with a strong foundation in **Machine Learning** and **Natural Language Processing**. I specialize in building intelligent systems from the ground up—implementing algorithms from scratch rather than relying solely on libraries. Passionate about creating production-ready applications that solve real-world problems.
-
-🔬 **Thesis Focus**: Indonesian Sentiment Analysis using Full-Scratch SVM with Fusion Methods (LDA + FastText)
+📍 Indonesia &nbsp;·&nbsp; 🎓 S.Kom Computer Science &nbsp;·&nbsp; 🌴 Open to opportunities
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
-- Python | Java | SQL | PHP
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Web Development**
-- Django | Laravel | JSP | Tailwind CSS | HTML/CSS
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Machine Learning & NLP**
-- SVM (Full Scratch Implementation)
-- FastText Word Embeddings
-- LDA Topic Modeling
-- Sentiment Analysis & Text Classification
-- Indonesian NLP Preprocessing
+**ML / NLP**
+![SVM](https://img.shields.io/badge/SVM-scratch-orange?style=flat)
+![FastText](https://img.shields.io/badge/FastText-0467DF?style=flat)
+![LDA](https://img.shields.io/badge/LDA-Topic_Modeling-green?style=flat)
 
-**Databases & Tools**
-- MySQL 
-- Git & GitHub | VS Code | Google Colab
-- XAMPP 
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Indonesian Sentiment Analysis System
-Full-scratch Support Vector Machine (SVM) implementation without sklearn, featuring:
-- Fusion method combining LDA topic modeling and FastText embeddings
-- Complete text preprocessing pipeline for Indonesian language
-- Django web application with real-time prediction
-- Achieved **85%+ accuracy** on Twitter dataset
-
-### 💼 Point of Sale (POS) System
-Java/JSP-based enterprise application with:
-- Modern UI using Tailwind CSS
-- MySQL database integration
-- Complete transaction management
-- User-friendly interface
+**Tools & DB**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Projects
 
-- Advanced Deep Learning for NLP
-- Cloud Deployment (AWS/GCP)
-- Data Structures & Algorithms for Technical Interviews
-- System Design & Scalability
+### [LaporKUI](https://github.com/Ravhihz/LaporKUI)
+Web-based complaint & reporting system built with **Laravel, React, and Inertia.js**.  
+Features role-based access control, real-time notifications, and a REST API.
+
+### [GoFusion](https://github.com/Ravhihz/GoFusion)
+Sentiment analysis platform for Indonesian tweets using **Django** and a full-scratch **SVM** implementation.  
+Combines LDA topic modeling + FastText embeddings — 85%+ accuracy.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Ravhihz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravhihz&show_icons=true&theme=radical&hide_border=true)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Ravhihz&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravhihz&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 **LinkedIn**: https://www.linkedin.com/in/ravhihz/
-- 📧 **Email**: ravhi.satria@gmail.com
-- 🌐 **Portfolio**: https://ravhihz.github.io/Rav-porto
-
----
-
 <div align="center">
-  
-**Open to opportunities in ML Engineering, Backend Development, and Data Science roles!**
 
-*"Building intelligent systems, one line of code at a time"* 💻✨
+*Building things that work — on the web and beyond.*
 
 </div>
