@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vhi+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+NLP+Enthusiast;Building+things+that+matter)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/ravhihz/">
+  <!-- <a href="https://www.linkedin.com/in/ravhihz/">
     <img src="https://img.shields.io/badge/LinkedIn-ravhihz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://ravhihz.github.io/Rav-porto">
     <img src="https://img.shields.io/badge/Portfolio-View_Site-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
@@ -97,14 +97,14 @@ Computer Science graduate building **full-stack web applications** and **AI-powe
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ravhihz&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravhihz&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ravhihz&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
