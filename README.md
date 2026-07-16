@@ -22,9 +22,9 @@
 
 Computer Science graduate building **full-stack web applications** and **AI-powered systems** with real-world impact.
 
-- 🔧 **Specialization** → Laravel · React · Django · NLP
+- 🔧 **Specialization** → Laravel · React · Next
 - 🧠 **Currently into** → System design & AI integration in web apps
-- 🎯 **Open to** → Entry-level Software Engineer / Backend Developer roles
+- 🎯 **Open to** → Entry-level Software Engineer 
 - 📍 **Based in** → Indonesia
 
 ---
