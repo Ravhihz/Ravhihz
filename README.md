@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vhi+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+NLP+Enthusiast;Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vhi+as+Varstory%F0%9F%91%8B;Full-Stack+Developer;AI+%26+NLP+Enthusiast;Building+things+that+matter)](https://git.io/typing-svg)
 
 <p>
   <!-- <a href="https://www.linkedin.com/in/ravhihz/">
