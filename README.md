@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vhi+as+Varstory+👋;Full-Stack+Frontend+Engineer;Building+Modern+Web+Apps;React+%7C+TypeScript+%7C+Next.js)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vhi+as+Varstory+👋;Full-Stack+Frontend+Engineer;Building+Modern+Web+Apps;React+%7C+TypeScript+%7C+Next.js)
 
 <p>
   <a href="https://portofolio-varstory.vercel.app">
