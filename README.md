@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi — I'm Vhi (Varstory) 👋
+# Hey, I'm Vhi (Varstory) 👋
 
-A frontend engineer focused on clear interfaces, fast experiences, and thoughtful interactions.
+A full-stack engineer crafting polished interfaces, fast experiences, and thoughtful interactions.
 
 <p>
   <a href="https://portofolio-varstory.vercel.app">
@@ -11,66 +11,122 @@ A frontend engineer focused on clear interfaces, fast experiences, and thoughtfu
   <a href="mailto:ravhi.satria@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/Ravhihz">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## About me
+## 🚀 About Me
 
-I build polished, accessible, and performant web interfaces using modern frontend tooling. I enjoy turning design ideas into production-ready experiences and collaborating with designers and backend engineers.
+I specialize in building **component-driven, accessible, and performant** web applications. My passion lies in:
 
-- Primary focus: Frontend engineering (React, Next.js, TypeScript)
-- Interests: component-driven design, accessibility, performance, DX
-- Location: Indonesia
+- Turning design concepts into production-ready experiences
+- Creating intuitive interfaces that users love
+- Collaborating with designers and developers to ship quality code
+- Optimizing performance and developer experience
+
+**Based in:** Indonesia 🇮🇩  
+**Focus:** Frontend-first full-stack development with modern tooling
 
 ---
 
-## Frontend Tech
+## 🛠️ Tech Stack
 
+### Frontend
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-F25E60?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-Other tools: React Query, Zustand/Redux, Jest + Testing Library, ESLint, Prettier, Vite
+**Tools & Libraries:** React Query, Zustand, Redux, Jest, Testing Library, ESLint, Prettier, Storybook
+
+### Backend & Full-Stack
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### DevOps & Deployment
+<p>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Selected frontend projects
+## 📂 Featured Projects
 
-- Portfolio — Personal site built with Next.js, TypeScript, and Tailwind. (https://github.com/Ravhihz/Portofolio)
-- Captionin — AI-assisted caption generator UI with real-time interactions and client-side optimizations. (https://github.com/Ravhihz/Captionin)
-- Storyline — Type-safe async workflow engine with a developer-friendly UI for inspecting pipelines. (https://github.com/Ravhihz/Storyline)
+### 🎨 **Frontend**
 
-Each project emphasizes component-driven design, performance budgets, and accessible interfaces.
+#### [Portfolio](https://github.com/Ravhihz/Portofolio)
+Personal portfolio site showcasing projects and skills.
+- **Tech:** Next.js, TypeScript, Tailwind CSS
+- **Highlights:** Responsive design, smooth animations, optimized performance
+- **Live:** https://portofolio-varstory.vercel.app
+
+#### [Captionin](https://github.com/Ravhihz/Captionin)
+AI-assisted caption generator with real-time interactions.
+- **Tech:** React, TypeScript, API integration
+- **Highlights:** Client-side optimizations, smooth UX, instant feedback
+- **Focus:** User-friendly interface for content creators
 
 ---
 
-## What I enjoy building
+### 🔧 **Full-Stack**
 
-- Design systems and component libraries
-- Fast, accessible single-page apps and static sites
-- Developer-friendly tooling and clear DX
-- Small ML/AI features that improve frontend UX
+#### [Storyline](https://github.com/Ravhihz/Storyline)
+Type-safe async workflow engine with developer-friendly UI.
+- **Tech:** TypeScript, Node.js, React
+- **Highlights:** Pipeline inspection, real-time monitoring, intuitive dashboard
+- **Use Case:** Manage complex async workflows with confidence
 
 ---
 
-## Work & contact
+### 🏗️ **Backend**
+*Projects showcasing API design and database architecture*
 
-Open to frontend / frontend-focused full-stack roles and freelance collaborations.
+---
 
-- Portfolio: https://portofolio-varstory.vercel.app
-- Email: ravhi.satria@gmail.com
-- GitHub: https://github.com/Ravhihz
+### 🚀 **SaaS**
+*Building scalable, production-ready applications*
+
+---
+
+## ✨ What I Love Building
+
+- **Design Systems** — Reusable component libraries with clear documentation
+- **High-Performance Apps** — SPAs and static sites optimized for speed
+- **Developer Experience** — Tools and utilities that make development enjoyable
+- **Smart Features** — Integrating AI/ML capabilities to enhance user interfaces
+
+---
+
+## 💼 Open To
+
+- **Roles:** Frontend / Full-Stack positions, remote or based in Indonesia
+- **Collaboration:** Freelance projects, consulting, open-source contributions
+- **Interests:** Mentoring, building in public, exploring new technologies
+
+---
+
+## 📞 Let's Connect
+
+- **Portfolio:** [portofolio-varstory.vercel.app](https://portofolio-varstory.vercel.app)
+- **Email:** [ravhi.satria@gmail.com](mailto:ravhi.satria@gmail.com)
+- **GitHub:** [@Ravhihz](https://github.com/Ravhihz)
 
 <div align="center">
 
-Made with care — clean, pragmatic, and user-first.
+**Made with care — clean code, thoughtful design, and user-first approach** ✨
 
 </div>
