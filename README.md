@@ -74,31 +74,54 @@ Personal portfolio site showcasing projects and skills.
 - **Highlights:** Responsive design, smooth animations, optimized performance
 - **Live:** https://portofolio-varstory.vercel.app
 
-#### [Captionin](https://github.com/Ravhihz/Captionin)
-AI-assisted caption generator with real-time interactions.
-- **Tech:** React, TypeScript, API integration
-- **Highlights:** Client-side optimizations, smooth UX, instant feedback
-- **Focus:** User-friendly interface for content creators
+#### Laporkui
+Project focused on frontend implementation and user-facing features.
+- **Tech:** (frontend stack)
+- **Highlights:** UI-focused, accessibility, polished UX
 
 ---
 
 ### 🔧 **Full-Stack**
 
-#### [Storyline](https://github.com/Ravhihz/Storyline)
-Type-safe async workflow engine with developer-friendly UI.
-- **Tech:** TypeScript, Node.js, React
-- **Highlights:** Pipeline inspection, real-time monitoring, intuitive dashboard
-- **Use Case:** Manage complex async workflows with confidence
+#### Gofusion
+Full-stack application showcasing integrations and production-ready deployments.
+- **Tech:** (full-stack)
+- **Highlights:** Scalable architecture, deployment-ready
+
+#### Careloop
+Product-focused full-stack application with emphasis on reliability and monitoring.
+- **Tech:** (full-stack)
+- **Highlights:** Real-world use cases, production tooling
 
 ---
 
-### 🏗️ **Backend**
-*Projects showcasing API design and database architecture*
+### 📦 Libraries & Packages
+
+#### Storyline
+A TypeScript package for async workflow handling (library/package).
+- **Tech:** TypeScript
+- **Highlights:** Type-safe async workflows, developer-friendly APIs
+
+---
+
+### 🧠 State Management
+
+#### Varstore
+State management package focused on predictable state and ergonomics.
+- **Tech:** TypeScript
+- **Highlights:** Small, fast, and ergonomic state primitives
 
 ---
 
 ### 🚀 **SaaS**
-*Building scalable, production-ready applications*
+
+#### Captionin
+AI-assisted caption generator with real-time interactions (now categorized under SaaS).
+- **Tech:** React, TypeScript, API integration
+- **Highlights:** Client-side optimizations, smooth UX, instant feedback
+- **Focus:** User-friendly interface for content creators
+
+#### (Other SaaS projects)
 
 ---
 
