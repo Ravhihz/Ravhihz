@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Vhi (Varstory) 👋
+# Hey, I'm Vhi 👋
 
 A full-stack engineer crafting polished interfaces, fast experiences, and thoughtful interactions.
 
